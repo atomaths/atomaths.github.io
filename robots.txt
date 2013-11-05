@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://atomaths.github.io/sitemap.xml 
